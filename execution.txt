@@ -1,0 +1,6 @@
+
+Test endpoints:
+
+Get current quote: http://localhost:5000/api/market/quote/AAPL
+
+Get historical data: http://localhost:5000/api/market/historical/MSFT?outputsize=full
